@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(176, 177, 177);
+}
+.container
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+    width: 400px;
+    margin-top: 100px;
+}
+ .heading
+{
+    text-align: center;
+    color: rgb(22, 104, 5);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: verdana;
+}
+h2{
+    color: rgb(52, 87, 52);
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(5, 110, 77);
+    font-family: sans-serif;
+} 
+button
+{
+    width: 80px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    cursor: wait;
+    background-color: darkslategrey;
+    color: white;
+    font-weight: bold;
+}
+
